@@ -15,7 +15,7 @@ body {
 
 
   .greybox{background:#e1e1e1;  border:solid 1px black;}
-  .bluebox{background:#71dbc4; border:solid 1px black;}
+  .bluebox{background:white; border:solid 1px black;}
   .redbox{background:white; border:solid 1px black;}
   div {border:inherit;background:transparent;margin:5px;}
 
